@@ -52,14 +52,14 @@ var images = [];
 var selectedImage = null;
 var offsetX = 0;
 var offsetY = 0;
-var imgWidth = 120;
-var imgHeight = 120;
+var imgWidth = 160;
+var imgHeight = 160;
 
 var timerInterval = null;
 var timerSeconds = 0;
 
 // Calculate the number of rows and columns in the grid
-var numRows = 2;
+var numRows = 1;
 // var numCols = Math.ceil(imagesToLoad / numRows);
 var numCols = 6;
 
