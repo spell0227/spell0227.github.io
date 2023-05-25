@@ -49,16 +49,16 @@ var images = [];
 var selectedImage = null;
 var offsetX = 0;
 var offsetY = 0;
-var imgWidth = 160;
-var imgHeight = 160;
+var imgWidth = 120;
+var imgHeight = 120;
 
 var timerInterval = null;
 var timerSeconds = 0;
 
 // Calculate the number of rows and columns in the grid
-var numRows = 3;
+var numRows = 2;
 // var numCols = Math.ceil(imagesToLoad / numRows);
-var numCols = 10;
+var numCols = 6;
 
 
 /*
