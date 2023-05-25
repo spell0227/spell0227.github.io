@@ -49,8 +49,8 @@ var images = [];
 var selectedImage = null;
 var offsetX = 0;
 var offsetY = 0;
-var imgWidth = 80;
-var imgHeight = 80;
+var imgWidth = 160;
+var imgHeight = 160;
 
 var timerInterval = null;
 var timerSeconds = 0;
