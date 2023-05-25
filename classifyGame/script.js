@@ -58,7 +58,7 @@ var timerSeconds = 0;
 // Calculate the number of rows and columns in the grid
 var numRows = 2;
 // var numCols = Math.ceil(imagesToLoad / numRows);
-var numCols = 10;
+var numCols = 9;
 
 
 /*
