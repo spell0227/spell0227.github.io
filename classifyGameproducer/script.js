@@ -354,7 +354,7 @@ function drawAnswerBox(){
     ctx.rect(0 + i*boxWidth , 0, boxWidth, boxHeight);
     ctx.stroke();
     
-    ctx.font = "24px Arial";
+    ctx.font = "12px Arial";
     ctx.fillText(kindomNames[i], 0 + i*boxWidth + 10 , 30);    
   }
 
@@ -362,7 +362,7 @@ function drawAnswerBox(){
     ctx.beginPath();
     ctx.rect(0 + i * boxWidth , canvas.height *2/3 , boxWidth, boxHeight);
     ctx.stroke();
-    ctx.font = "24px Arial";
+    ctx.font = "12px Arial";
     ctx.fillText(kindomNames[i+4], 0 + i*boxWidth + 10 , canvas.height *2/3 + 30);      
   }
 }
