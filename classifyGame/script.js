@@ -420,7 +420,7 @@ function checkPlacement2() {
 
   // Show the score above the canvas
   var scoreElement = document.getElementById("score");
-  scoreElement.innerText = "score:  " + score;     //score:
+  scoreElement.innerText = "分數：  " + score;     //score:
   // If there are wrong images, slide them to the middle and allow the user to place them again
   if (wrongImages.length > 0) {
     slideWrongImages(wrongImages);
@@ -468,7 +468,7 @@ function checkPlacement() {
 
   // Show the score above the canvas
   var scoreElement = document.getElementById("score");
-  scoreElement.innerText = "score: " + score;
+  scoreElement.innerText = "分數： " + score;
 
   // If there are wrong images, slide them to the middle and allow the user to place them again
   if (wrongImages.length > 0) {
