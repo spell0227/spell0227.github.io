@@ -1,6 +1,6 @@
 # spell0227.github.io
  <h1>分類</h1>
-	<a href = "classifyGame6/index.html" target="_blank" style="text-decoration:none;color:blue;">F1：動物界無脊椎圖卡分類</a>
+    <a href = "classifyGame6/index.html" target="_blank" style="text-decoration:none;color:blue;">F1：動物界無脊椎圖卡分類</a>
 		<p>
     <a href = "classifyGame/index.html" target="_blank" style="text-decoration:none;color:blue;">F2：動物界ALL圖卡分類</a>
 		<p>
