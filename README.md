@@ -1,10 +1,10 @@
 # spell0227.github.io
  <h1>分類</h1>
-    <a href = "classifyGame6/index.html" target="_blank" style="text-decoration:none;color:blue;">F1：動物界無脊椎圖卡分類</a>
+    <p><a href = "classifyGame6/index.html" target="_blank" style="text-decoration:none;color:blue;">F1：動物界無脊椎圖卡分類</a></p>
+	<p>
+    <p><a href = "classifyGame/index.html" target="_blank" style="text-decoration:none;color:blue;">F2：動物界ALL圖卡分類</a>
 		
-    <a href = "classifyGame/index.html" target="_blank" style="text-decoration:none;color:blue;">F2：動物界ALL圖卡分類</a>
-		
-    <a href = "memoryCardGame/index.html" target="_blank" style="text-decoration:none;color:blue;">F3：記憶動物分類卡片(刺絲胞-棘皮)</a>		
+    <p><a href = "memoryCardGame/index.html" target="_blank" style="text-decoration:none;color:blue;">F3：記憶動物分類卡片(刺絲胞-棘皮)</a></p>		
 		
 <p>================================================</p>
     <a href = "matchCardGame-animal6/index.html" target="_blank" style="text-decoration:none;color:blue;">F4：找出相同門的動物卡片(刺絲胞-棘皮)</a>				
