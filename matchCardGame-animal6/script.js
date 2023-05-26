@@ -107,7 +107,7 @@ function drawCards() {
         if (isSelected) {
             ctx.fillStyle = "red"; // 被點擊的變紅色
         } else {
-            ctx.fillStyle = "green";
+            ctx.fillStyle = "#345E4F";
         }
         
         ctx.fillRect(card.x, card.y, cardWidth, cardHeight);
