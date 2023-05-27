@@ -1,6 +1,6 @@
 # spell0227.github.io
  <h1>分類</h1>
-    <p><a href = "https://spell0227.github.io/classifyGame/animal6.html" target="_blank" style="text-decoration:none;color:#613030;">C1：動物界無脊椎圖卡分類</a></p>
+    <p><a href = "https://spell0227.github.io/classifyGame/animal6.html" target="_blank" style="text-decoration:none;color:#613030;">C1：無脊椎動物圖卡分類</a></p>
 	<p>
     <p><a href = "https://spell0227.github.io/classifyGame/animalall.html" target="_blank" style="text-decoration:none;color:#613030;">C2：動物界所有圖卡分類</a></p>
 	<p>	
