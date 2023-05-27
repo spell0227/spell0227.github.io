@@ -17,7 +17,10 @@
 		
 <p>================================================</p>	
     <h1>生態</h1>
-	<p><a href = "https://spell0227.github.io/classifyGame/producer.html" target="_blank" style="text-decoration:none;color:#613030;">G1：在生態系扮演的角色</a></p>				
+		<p><a href = "https://spell0227.github.io/classifyGame/producer.html" target="_blank" style="text-decoration:none;color:#613030;">G1：在生態系扮演的角色分類</a></p>				
+		<p>
+	<p><a href = "https://spell0227.github.io/classifyGame/photosyn.html" target="_blank" style="text-decoration:none;color:#613030;">G2：生產者圖卡分類</a></p>				
+		<p>		
 		<p>
 			<br>
 			<br>
