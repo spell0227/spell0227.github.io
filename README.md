@@ -6,7 +6,7 @@
 	<p>
     <p><a href = "https://spell0227.github.io/classifyGame/animalall.html" target="_blank" style="text-decoration:none;color:#613030;">C3：動物界所有圖卡分類</a></p>
 	<p>	
-    <p><a href = "https://spell0227.github.io/memoryCardGame/index.html" target="_blank" style="text-decoration:none;color:#613030;">C3：記憶動物分類卡片(刺絲胞-棘皮)</a></p>		
+    <p><a href = "https://spell0227.github.io/memoryCardGame/index.html" target="_blank" style="text-decoration:none;color:#613030;">C4：記憶動物分類卡片(刺絲胞-棘皮)</a></p>		
 		
 <p>================================================</p>
     <p><a href = "https://spell0227.github.io/matchCardGame/plant.html" target="_blank" style="text-decoration:none;color:#613030;">F1：植物界配對(蘚苔蕨類裸子被子)</a></p>				
