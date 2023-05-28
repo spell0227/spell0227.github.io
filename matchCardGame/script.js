@@ -265,7 +265,7 @@ function handleMatchingCards() {
 
             
             scores += correctScores
-            scoresElement.innerText = "scores: " + scores;
+            scoresElement.innerText = "目前分數： " + scores;
 
             setTimeout(function () {
                 
@@ -280,17 +280,17 @@ function handleMatchingCards() {
                 // Redraw the cards
                 drawCards();
 
-            }, 200);
+            }, 1000);
             
         } else {
             // Not matched: Face down the cards
             wrongSound.play();
             scores -= wrongScores;
-            scoresElement.innerText = "scores: " + scores;
+            scoresElement.innerText = "目前分數： " + scores;
             setTimeout(function () {
                 selectedCards = [];
                 drawCards();
-            }, 200);
+            }, 1000);
       } 
     }
 	if (cards.length == 0){
