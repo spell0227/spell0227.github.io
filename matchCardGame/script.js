@@ -262,6 +262,7 @@ function handleMatchingCards() {
 
         if (card1.category === card2.category) {
             correctSound.play();
+
             
             scores += correctScores
             scoresElement.innerText = "scores: " + scores;
@@ -278,6 +279,9 @@ function handleMatchingCards() {
 
                 // Redraw the cards
                 drawCards();
+		if (cards.length == 0){
+      			stopTimer();
+    		}
             }, 200);
             
         } else {
