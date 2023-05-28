@@ -131,9 +131,8 @@ function stopTimer() {
 // Function to update the timer display
 function updateTimerDisplay() {
   var timerElement = document.getElementById("timer");
-  timerElement.innerText = timerSeconds;
+  timerElement.innerText = "完成時間： " + timerSeconds;
 }
-
 
 
 // Function to shuffle an array
@@ -333,7 +332,7 @@ function checkPlacement() {
 
   // Show the score above the canvas
   var scoreElement = document.getElementById("scores");
-  scoreElement.innerText = "Score: " + score;
+  scoreElement.innerText = "目前分數： " + score;
 
   // If there are wrong cards, slide them to the middle and allow the user to place them again
   if (wrongcards.length > 0) {
