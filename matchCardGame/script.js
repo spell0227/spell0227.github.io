@@ -166,7 +166,7 @@ function stopTimer() {
 // Function to update the timer display
 function updateTimerDisplay() {
   var timerElement = document.getElementById("timer");
-  timerElement.innerText = timerSeconds;
+  timerElement.innerText = "完成秒數： " + timerSeconds;
 }
 //====================時間函數設定結束===================
 
@@ -280,7 +280,7 @@ function handleMatchingCards() {
                 // Redraw the cards
                 drawCards();
 
-            }, 1000);
+            }, 200);
             
         } else {
             // Not matched: Face down the cards
@@ -290,10 +290,11 @@ function handleMatchingCards() {
             setTimeout(function () {
                 selectedCards = [];
                 drawCards();
-            }, 1000);
+            }, 200);
       } 
-    }
 	if (cards.length == 0){
 		stopTimer();
+    	}
+	
     	}
 }
