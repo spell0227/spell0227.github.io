@@ -279,9 +279,7 @@ function handleMatchingCards() {
 
                 // Redraw the cards
                 drawCards();
-		if (cards.length == 0){
-      			stopTimer();
-    		}
+
             }, 200);
             
         } else {
@@ -294,5 +292,8 @@ function handleMatchingCards() {
                 drawCards();
             }, 200);
       } 
-    } 
+    }
+	if (cards.length == 0){
+		stopTimer();
+    	}
 }
